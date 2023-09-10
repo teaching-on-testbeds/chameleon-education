@@ -1,14 +1,19 @@
 ::: {.cell .markdown}
 
-# Inspecting network traffic with `tcpdump` and Wireshark
+# TCP/IP protocol stack
 
 :::
 
 ::: {.cell .markdown}
 
-In this experiment you will practice using tcpdump and Wireshark, two software applications for packet capture and packet analysis.
+In this experimental demonstration of the TCP/IP protocol architecture, we will examine network addresses and connections at
 
-Using these applications, we can capture raw network data as it arrives at or leaves any host in our experiments, save the raw network packets in a file, and analyze the packets in this file in order to gain insight into network protocols and their behavior.
+* the network access (a.k.a. data link) layer,
+* the Internet (IP) layer,
+* the transport layer (logical host-to-host), and
+* the application layer.
+
+It should take about 60 minutes to run this experiment.
 
 :::
 
@@ -26,6 +31,6 @@ In this notebook you will:
 
 ::: {.cell .markdown}
 
-To *execute* the experiment, you will follow the instructions at: https://witestlab.poly.edu/blog/wireshark-tcpdump/
+To *execute* the experiment, you will follow the instructions at: https://witestlab.poly.edu/blog/tcp-ip-protocol-stack/
 
 :::
