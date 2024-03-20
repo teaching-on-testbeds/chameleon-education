@@ -1,8 +1,15 @@
 ::: {.cell .markdown}
 
-# Static routing 
+# Designing subnets
 
 :::
+
+::: {.cell .markdown}
+
+Your task in this experiment is to set up subnets in a few small LANs to meet given design requirements.
+
+:::
+
 
 ::: {.cell .markdown}
 
@@ -12,11 +19,12 @@ In this notebook you will:
 * Configure your reserved resources
 * Access your reserved resources over SSH
 
-Then you will run the experiment at [Static routing within and between IPv4 networks](https://witestlab.poly.edu/blog/static-routing/).
+Then you will run the experiment at [Designing subnets](https://witestlab.poly.edu/blog/designing-subnets/).
 
 Finally, you will
 
-* Delete the resources to free them for other users
+* Delete your resources when you are finished
 
 :::
+
 
