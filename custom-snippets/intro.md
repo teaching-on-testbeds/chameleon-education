@@ -20,13 +20,13 @@ In this notebook you will:
 * Reserve resources for this experiment
 * Configure your reserved resources
 * Access your reserved resources over SSH
+
+Then, you will execute the experiment following the instructions at [Network layer security](https://witestlab.poly.edu/blog/network-layer-security).
+
+Finally, you will
+
 * Delete your resources when you are finished
 
 :::
 
-::: {.cell .markdown}
-
-To *execute* the experiment, you will follow the instructions at: https://witestlab.poly.edu/blog/network-layer-security
-
-:::
 
