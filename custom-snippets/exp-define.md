@@ -1,5 +1,5 @@
 ::: {.cell .markdown}
-### Define configuration for this experiment (two hosts and router` in line topology)
+### Define configuration for this experiment (two hosts and router in line topology)
 :::
 
 ::: {.cell .code}
@@ -16,8 +16,8 @@ net_conf = [
  {"name": "net2", "subnet": "10.0.2.0/24", "nodes": [{"name": "juliet",  "addr": "10.0.2.100"}, {"name": "router", "addr": "10.0.2.10"}]}
 ]
 route_conf = [
- {"addr": "10.0.2.0/24", "gw": "10.0.0.10", "nodes": ["romeo"]}, 
- {"addr": "10.0.1.0/24", "gw": "10.0.1.10", "nodes": ["juliet"]}
+ {"addr": "10.0.2.0/24", "gw": "10.0.1.10", "nodes": ["romeo"]}, 
+ {"addr": "10.0.1.0/24", "gw": "10.0.2.10", "nodes": ["juliet"]}
 ]
 ```
 :::
