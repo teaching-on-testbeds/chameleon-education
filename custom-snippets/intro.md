@@ -1,6 +1,6 @@
 ::: {.cell .markdown}
 
-# TCP Congestion Control
+# Static routing 
 
 :::
 
@@ -12,12 +12,9 @@ In this notebook you will:
 * Configure your reserved resources
 * Access your reserved resources over SSH
 
-And, after using the resources to [execute an experiment related to TCP congestion control](https://witestlab.poly.edu/blog/tcp-congestion-control-basics/):
+Then you will run the experiment at [Static routing within and between IPv4 networks](https://witestlab.poly.edu/blog/static-routing/).
 
-* Retrieve files saved on the resource
-* Visualize the data retrieved
-
-When you are finished:
+Finally, you will
 
 * Delete the resources to free them for other users
 
