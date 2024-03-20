@@ -20,12 +20,12 @@ In this notebook you will:
 * Reserve resources for this experiment
 * Configure your reserved resources
 * Access your reserved resources over SSH
+
+Then, you will follow the instructions in [Inspecting network traffic with tcpdump and Wireshark](https://witestlab.poly.edu/blog/wireshark-tcpdump/) to execute the experiment. 
+
+Finally, you will
+
 * Delete your resources when you are finished
 
 :::
 
-::: {.cell .markdown}
-
-To *execute* the experiment, you will follow the instructions at: https://witestlab.poly.edu/blog/wireshark-tcpdump/
-
-:::
