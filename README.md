@@ -30,3 +30,8 @@ git clone -b arp https://github.com/teaching-on-testbeds/chameleon-education arp
 git clone -b secure_applications https://github.com/teaching-on-testbeds/chameleon-education secure_applications
 git clone -b network_security https://github.com/teaching-on-testbeds/chameleon-education network_security
 ```
+
+---
+
+This material is based upon work supported by the National Science Foundation under Grant No. 2231984.
+
