@@ -23,7 +23,7 @@ romeo_remote.get("/home/cc/sender-ss.csv")
 import pandas as pd
 import matplotlib.pyplot as plt
 
-df = pd.read_csv("sender-ss.csv", names=['time', 'sender', 'retx_unacked', 'retx_cum', 'cwnd', 'ssthresh'])
+df = pd.read_csv("sender-ss.csv", names=['time', 'sender', 'retx_unacked', 'retx_cum', 'cwnd', 'ssthresh', 'rtt'])
 
 # exclude the "control" flow
 s = df.groupby('sender').size()
